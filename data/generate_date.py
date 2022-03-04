@@ -1,7 +1,7 @@
 from random import randint, choice
 import json
 
-from app import Event
+from event.event import Event
 
 
 class GenerateData:
